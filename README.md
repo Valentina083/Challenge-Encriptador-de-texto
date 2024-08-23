@@ -7,14 +7,14 @@
 ### **Historia**
 Despues de haber culminado las primeras semanas de aprendizaje, realizar este proyecto permitirá afianzar los conociminetos, estar más cerca de como se realiza un proyecto en la vida cotidiana.
 
-### **Algunos temas vistos**
+### :notebook_with_decorative_cover: **Algunos temas vistos**
 - Lógica de Programación.
 - Programación con JavaScript.
 -  Estructura de HTML.
 - Clases, posicionamiento, variables y flexbox con CSS.
 - Propiedades de CSS.
 
-### **Requisitos:**
+### :wrench: **Requisitos:**
 
 - Debe funcionar solo con letras minúsculas.
 - No deben ser utilizados letras con acentos ni caracteres especiales.
