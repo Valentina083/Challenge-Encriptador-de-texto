@@ -24,6 +24,7 @@ Despues de haber culminado las primeras semanas de aprendizaje, realizar este pr
 - Inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre as dos opciones.
 - El resultado debe ser mostrado en la pantalla.
 
+![Captura de pantalla 2024-08-22 221443](https://github.com/user-attachments/assets/901daa1d-c38d-4550-be87-2df50983fed5)
 
 **Para probar el encriptador:**
 
